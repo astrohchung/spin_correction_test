@@ -1,0 +1,6 @@
+[submodule "kinematic_corrections"]
+	path = kinematic_corrections
+	url = https://github.com/kateharborne/kinematic_corrections
+[submodule "lambdaR_e_calc"]
+	path = lambdaR_e_calc
+	url = https://github.com/marktgraham/lambdaR_e_calc
