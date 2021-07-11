@@ -8,3 +8,4 @@
 - change the permission of './kinematic_corrections/kinematic-corrections.py' file to executable.
 - cd kinematic_corrections
 - chmod 777 kinematic-corrections.py
+- checkout spin_correction_test.ipynb
